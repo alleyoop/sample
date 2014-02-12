@@ -10,9 +10,16 @@ sample
 # 見出１
 ## 見出２
 
+<<<<<<< HEAD
 * DISC型
 * test
 * test2
+=======
+*+ DISC型
+
+
+*-
+>>>>>>> origin
 
 1. リスト
 1. リスト２
